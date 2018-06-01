@@ -1,4 +1,4 @@
-# Modal
+# Modal.js
 
 ### Exemplo:
 [HTML](example/modal/index.html) - 
@@ -6,7 +6,7 @@
 [JS](example/modal/js/modal.js)
 
 ### API
-[JS](modal.js)
+[modal.js](modal.js)
 
 ### Documentação
 A ideia desta API é ser leve e prática, ela permite a criação de um modal totalmente customizável utilizando pouco html para estruturação.
