@@ -1,12 +1,12 @@
 # Modal.js
 
-### Exemplo:
+### Links
+* API: [modal.js](modal.js)
+* Demo: [veja funcionando](https://jimmyfilips.github.io/demo/modal.js/)
+* Exemplo:
 [HTML](example/modal/index.html) - 
 [CSS](example/modal/css/custom.css) - 
 [JS](example/modal/js/modal.js)
-
-### API
-[modal.js](modal.js)
 
 ### Documentação
 A ideia desta API é ser leve e prática, ela permite a criação de um modal totalmente customizável utilizando pouco html para estruturação.
