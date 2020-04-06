@@ -4,7 +4,7 @@
 
 ### Links
 * API: [modal.js](modal.js)
-* Demo: [veja funcionando](https://jimmyfilips.github.io/demo/modal.js/)
+* Demo: [veja funcionando](https://fddaineze.github.io/demo/modal.js/)
 * Exemplo:
 [HTML](example/modal/index.html) - 
 [CSS](example/modal/css/custom.css) - 
