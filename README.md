@@ -1,3 +1,5 @@
+![last commit badge](https://badgen.net/github/last-commit/fddaineze/API-s) ![commits badge](https://badgen.net/github/commits/fddaineze/API-s) ![license badge](https://badgen.net/github/license/fddaineze/API-s)
+ 
 # Modal.js
 
 ### Links
